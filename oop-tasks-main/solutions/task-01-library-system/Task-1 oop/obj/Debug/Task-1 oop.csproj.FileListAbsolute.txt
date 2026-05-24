@@ -1,0 +1,7 @@
+C:\Users\TOP 10\source\repos\Task-1 oop\Task-1 oop\obj\Debug\Task-1 oop.csproj.AssemblyReference.cache
+C:\Users\TOP 10\source\repos\Task-1 oop\Task-1 oop\obj\Debug\Task-1 oop.csproj.CoreCompileInputs.cache
+C:\Users\TOP 10\source\repos\Task-1 oop\Task-1 oop\bin\Debug\Task-1 oop.exe.config
+C:\Users\TOP 10\source\repos\Task-1 oop\Task-1 oop\bin\Debug\Task-1 oop.exe
+C:\Users\TOP 10\source\repos\Task-1 oop\Task-1 oop\bin\Debug\Task-1 oop.pdb
+C:\Users\TOP 10\source\repos\Task-1 oop\Task-1 oop\obj\Debug\Task-1 oop.exe
+C:\Users\TOP 10\source\repos\Task-1 oop\Task-1 oop\obj\Debug\Task-1 oop.pdb
