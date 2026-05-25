@@ -14,8 +14,9 @@ Here you can track my solutions. Each folder inside my `solutions/` directory co
 | Task # | Challenge Name | My Solution Link | Key Highlights Implemented |
 | :---: | :--- | :---: | :--- |
 | **01** | Library Management System | [🟢 View C# Solution](oop-tasks-main/solutions/task-01-library-system) | Strict Encapsulation (`private set`), Member Verification, and **Ghost Return Prevention Bug Fix** |
-| **02** | Student Grade Management | 🟡 In Progress | *Currently working on this challenge...* |
-| **03** | Vehicle Rental System | ⚪ Pending | *Locked* |
+| **02** | Student Grade Management | | [🟢 View C# Solution]([oop-tasks-main/solutions/task-01-library-system](https://github.com/Ahmedkhailed/OOP-Tasks-Solutions/tree/main/oop-tasks-main/solutions/Task-2_Student%20Grade%20Management%20System))  |  Strict Encapsulation (`private set`), Member Verification, and **Ghost Return Prevention Bug Fix**  |
+| **03** | Vehicle Rental System | 🟡 In Progress | *Currently working on this challenge...* |
+| **04** | Restaurant Order System | ⚪ Pending | *Locked* |
 
 ---
 
