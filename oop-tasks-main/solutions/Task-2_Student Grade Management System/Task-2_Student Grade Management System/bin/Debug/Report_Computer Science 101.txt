@@ -1,0 +1,19 @@
+\n\n
+==================================================
+                 STUDENT GRADE REPORT
+==================================================
+Student ID   : 6a2c6c3a-2637-4b6d-a7b9-a2fdf8ad5ed2
+Student Name : Charlie Brown
+Issue Date   : 25/05/2026 01:03:41 م
+--------------------------------------------------
+SUBJECT DETAILS:
+- Math		:100
+- Science		:99
+
+--------------------------------------------------
+FINAL PERFORMANCE SUMMARY:
+--------------------------------------------------
+Attendance Percentage : 100%
+ Final Average: 99.5
+Final Letter Grade    : A
+==================================================

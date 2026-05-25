@@ -1,0 +1,7 @@
+C:\Users\TOP 10\source\repos\Task-2_Student Grade Management System\Task-2_Student Grade Management System\bin\Debug\Task-2_Student Grade Management System.exe.config
+C:\Users\TOP 10\source\repos\Task-2_Student Grade Management System\Task-2_Student Grade Management System\bin\Debug\Task-2_Student Grade Management System.exe
+C:\Users\TOP 10\source\repos\Task-2_Student Grade Management System\Task-2_Student Grade Management System\bin\Debug\Task-2_Student Grade Management System.pdb
+C:\Users\TOP 10\source\repos\Task-2_Student Grade Management System\Task-2_Student Grade Management System\obj\Debug\Task-2_Student Grade Management System.csproj.AssemblyReference.cache
+C:\Users\TOP 10\source\repos\Task-2_Student Grade Management System\Task-2_Student Grade Management System\obj\Debug\Task-2_Student Grade Management System.csproj.CoreCompileInputs.cache
+C:\Users\TOP 10\source\repos\Task-2_Student Grade Management System\Task-2_Student Grade Management System\obj\Debug\Task-2_Student Grade Management System.exe
+C:\Users\TOP 10\source\repos\Task-2_Student Grade Management System\Task-2_Student Grade Management System\obj\Debug\Task-2_Student Grade Management System.pdb
