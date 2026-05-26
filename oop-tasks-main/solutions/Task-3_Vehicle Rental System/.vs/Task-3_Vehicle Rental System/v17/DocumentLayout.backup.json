@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOP 10\\source\\repos\\Task-3_Vehicle Rental System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD1313D-005E-4588-9945-677AD53F50C8}|Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System.csproj|c:\\users\\top 10\\source\\repos\\task-3_vehicle rental system\\task-3_vehicle rental system\\clsrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD1313D-005E-4588-9945-677AD53F50C8}|Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System.csproj|solutionrelative:task-3_vehicle rental system\\clsrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD1313D-005E-4588-9945-677AD53F50C8}|Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System.csproj|c:\\users\\top 10\\source\\repos\\task-3_vehicle rental system\\task-3_vehicle rental system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD1313D-005E-4588-9945-677AD53F50C8}|Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System.csproj|solutionrelative:task-3_vehicle rental system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD1313D-005E-4588-9945-677AD53F50C8}|Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System.csproj|c:\\users\\top 10\\source\\repos\\task-3_vehicle rental system\\task-3_vehicle rental system\\clsrentalagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD1313D-005E-4588-9945-677AD53F50C8}|Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System.csproj|solutionrelative:task-3_vehicle rental system\\clsrentalagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD1313D-005E-4588-9945-677AD53F50C8}|Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System.csproj|c:\\users\\top 10\\source\\repos\\task-3_vehicle rental system\\task-3_vehicle rental system\\clscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD1313D-005E-4588-9945-677AD53F50C8}|Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System.csproj|solutionrelative:task-3_vehicle rental system\\clscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD1313D-005E-4588-9945-677AD53F50C8}|Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System.csproj|c:\\users\\top 10\\source\\repos\\task-3_vehicle rental system\\task-3_vehicle rental system\\clsvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD1313D-005E-4588-9945-677AD53F50C8}|Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System.csproj|solutionrelative:task-3_vehicle rental system\\clsvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1135,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsRentalAgency.cs",
+              "DocumentMoniker": "C:\\Users\\TOP 10\\source\\repos\\Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System\\clsRentalAgency.cs",
+              "RelativeDocumentMoniker": "Task-3_Vehicle Rental System\\clsRentalAgency.cs",
+              "ToolTip": "C:\\Users\\TOP 10\\source\\repos\\Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System\\clsRentalAgency.cs",
+              "RelativeToolTip": "Task-3_Vehicle Rental System\\clsRentalAgency.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowFIAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:01:35.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsRental.cs",
+              "DocumentMoniker": "C:\\Users\\TOP 10\\source\\repos\\Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System\\clsRental.cs",
+              "RelativeDocumentMoniker": "Task-3_Vehicle Rental System\\clsRental.cs",
+              "ToolTip": "C:\\Users\\TOP 10\\source\\repos\\Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System\\clsRental.cs*",
+              "RelativeToolTip": "Task-3_Vehicle Rental System\\clsRental.cs*",
+              "ViewState": "AgIAAI8AAAAAAAAAAAArwJkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T10:49:11.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\TOP 10\\source\\repos\\Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System\\clsCustomer.cs",
+              "RelativeDocumentMoniker": "Task-3_Vehicle Rental System\\clsCustomer.cs",
+              "ToolTip": "C:\\Users\\TOP 10\\source\\repos\\Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System\\clsCustomer.cs",
+              "RelativeToolTip": "Task-3_Vehicle Rental System\\clsCustomer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T10:41:08.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\TOP 10\\source\\repos\\Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System\\clsVehicle.cs",
+              "RelativeDocumentMoniker": "Task-3_Vehicle Rental System\\clsVehicle.cs",
+              "ToolTip": "C:\\Users\\TOP 10\\source\\repos\\Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System\\clsVehicle.cs",
+              "RelativeToolTip": "Task-3_Vehicle Rental System\\clsVehicle.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T10:24:31.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TOP 10\\source\\repos\\Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System\\Program.cs",
+              "RelativeDocumentMoniker": "Task-3_Vehicle Rental System\\Program.cs",
+              "ToolTip": "C:\\Users\\TOP 10\\source\\repos\\Task-3_Vehicle Rental System\\Task-3_Vehicle Rental System\\Program.cs",
+              "RelativeToolTip": "Task-3_Vehicle Rental System\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T10:23:29.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
