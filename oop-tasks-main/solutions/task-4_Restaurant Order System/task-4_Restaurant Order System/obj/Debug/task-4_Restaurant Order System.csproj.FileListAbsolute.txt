@@ -1,0 +1,7 @@
+C:\Users\TOP 10\source\repos\task-4_Restaurant Order System\task-4_Restaurant Order System\bin\Debug\task-4_Restaurant Order System.exe.config
+C:\Users\TOP 10\source\repos\task-4_Restaurant Order System\task-4_Restaurant Order System\bin\Debug\task-4_Restaurant Order System.exe
+C:\Users\TOP 10\source\repos\task-4_Restaurant Order System\task-4_Restaurant Order System\bin\Debug\task-4_Restaurant Order System.pdb
+C:\Users\TOP 10\source\repos\task-4_Restaurant Order System\task-4_Restaurant Order System\obj\Debug\task-4_Restaurant Order System.csproj.AssemblyReference.cache
+C:\Users\TOP 10\source\repos\task-4_Restaurant Order System\task-4_Restaurant Order System\obj\Debug\task-4_Restaurant Order System.csproj.CoreCompileInputs.cache
+C:\Users\TOP 10\source\repos\task-4_Restaurant Order System\task-4_Restaurant Order System\obj\Debug\task-4_Restaurant Order System.exe
+C:\Users\TOP 10\source\repos\task-4_Restaurant Order System\task-4_Restaurant Order System\obj\Debug\task-4_Restaurant Order System.pdb
