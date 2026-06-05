@@ -1,0 +1,7 @@
+C:\Users\TOP 10\source\repos\Task-5_Zoo Management System\Task-5_Zoo Management System\obj\Debug\Task-5_Zoo Management System.csproj.AssemblyReference.cache
+C:\Users\TOP 10\source\repos\Task-5_Zoo Management System\Task-5_Zoo Management System\obj\Debug\Task-5_Zoo Management System.csproj.CoreCompileInputs.cache
+C:\Users\TOP 10\source\repos\Task-5_Zoo Management System\Task-5_Zoo Management System\bin\Debug\Task-5_Zoo Management System.exe.config
+C:\Users\TOP 10\source\repos\Task-5_Zoo Management System\Task-5_Zoo Management System\bin\Debug\Task-5_Zoo Management System.exe
+C:\Users\TOP 10\source\repos\Task-5_Zoo Management System\Task-5_Zoo Management System\bin\Debug\Task-5_Zoo Management System.pdb
+C:\Users\TOP 10\source\repos\Task-5_Zoo Management System\Task-5_Zoo Management System\obj\Debug\Task-5_Zoo Management System.exe
+C:\Users\TOP 10\source\repos\Task-5_Zoo Management System\Task-5_Zoo Management System\obj\Debug\Task-5_Zoo Management System.pdb
