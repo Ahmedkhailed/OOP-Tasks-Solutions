@@ -16,8 +16,10 @@ Here you can track my solutions. Each folder inside my `solutions/` directory co
 | **01** | Library Management System | [🟢 View C# Solution](oop-tasks-main/solutions/task-01-library-system) | Strict Encapsulation (`private set`), Member Verification, and **Ghost Return Prevention Bug Fix** |
 | **02** | Student Grade Management | [🟢 View C# Solution](https://github.com/Ahmedkhailed/OOP-Tasks-Solutions/tree/main/oop-tasks-main/solutions/Task-2_Student%20Grade%20Management%20System) | Dictionary collections, Letter Grade mapping, Class Averages, and Top-N Students Sorting |
 | **03** | Vehicle Rental System | [🟢 View C# Solution](https://github.com/Ahmedkhailed/OOP-Tasks-Solutions/tree/main/oop-tasks-main/solutions/Task-3_Vehicle%20Rental%20System) | DateTime operations, Rental Duration logic, Object state tracking, and Agency CRUD operations |
-| **04** | Restaurant Order System | [🟢 View C# Solution](https://github.com) | Nested `OrderItem` tracking, Category categorization, State management, and Financial Calculations |
-| **05** | Zoo Management System | 🟡 In Progress | *Planning inheritance hierarchies and abstract animal behaviors...* |
+| **04** | Restaurant Order System | [🟢 View C# Solution](https://github.com/Ahmedkhailed/OOP-Tasks-Solutions/tree/main/oop-tasks-main/solutions/task-4_Restaurant%20Order%20System) | Nested `OrderItem` tracking, Category categorization, State management, and Financial Calculations |
+| **05** | Zoo Management System | [🟢 View C# Solution](https://github.com/Ahmedkhailed/OOP-Tasks-Solutions/tree/main/oop-tasks-main/solutions/Task-5_Zoo%20Management%20System) | Abstract Classes, Inheritance Hierarchy, Method Overriding, and Polymorphic Behaviors |
+| **06** | Hotel Reservation System | [🟢 View C# Solution](https://github.com/Ahmedkhailed/OOP-Tasks-Solutions/tree/main/oop-tasks-main/solutions/Task-6_Hotel%20Reservation%20System) | Interfaces for room operations, Enums for safety, complex Date validations, and Booking rules |
+| **07** | Bank Account System | 🟡 In Progress | *Analyzing virtual methods, protected members, and interest calculations...* |
 
 ---
 
